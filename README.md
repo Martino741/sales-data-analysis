@@ -1,2 +1,2 @@
 # sales-data-analysis
-ales data analysis using Python
+sales data analysis using Python
