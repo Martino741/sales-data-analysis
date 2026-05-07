@@ -21,7 +21,5 @@ The analysis identified:
 - Total revenue generated
 - Best-performing products
 
----
-
-## 👨‍💻 Author
+Author
 Jeannot Martino VIGNIGBE
