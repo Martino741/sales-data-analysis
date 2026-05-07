@@ -5,7 +5,7 @@ This project analyzes sales data using Python and Pandas to identify trends and 
 Tools Used
 - Python
 - Pandas
-- 
+  
 Dataset
 The dataset contains:
 - Product names
